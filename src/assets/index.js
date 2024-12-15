@@ -41,7 +41,7 @@ import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
 import foundation from "./certificates/Advanced Web Developer.png";
-import practitioner from "./certificates/JavaScript1.png";
+import practitioner from "./certificates/Javascript1.png";
 import azure from "./certificates/azure.png";
 import deloitte from "./certificates/Taskmanager.png";
 import video from "./certificates/VideoBlog.png";
