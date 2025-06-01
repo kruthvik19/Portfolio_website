@@ -45,12 +45,12 @@ const Hero = () => {
               <span
                 className="sm:text-battleGray sm:text-[5rem] 
                 text-eerieBlack text-[3rem] font-mova
-                font-extrabold uppercase"
+                font-extrabold uppercase ms-2"
               >                
-                Kruthvik K S
+              Kruthvik
               </span>
             </h1>
-            <p className={`${styles.heroSubText} mt-2 text-gray-500`}>
+            <p className={`${styles.heroSubText} mt-2 text-gray-500 font-poppins`}>
               As a Full-Stack Developer, <br className="sm:block hidden" />I specialize
               in creating scalable and user-friendly web applications by leveraging
               modern technologies, efficient coding practices, and a passion for innovative solutions

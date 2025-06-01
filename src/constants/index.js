@@ -25,7 +25,10 @@ import {
   mongodb,
   angular,
   video,
-  userman
+  userman,
+  monospear,
+  monospear1,
+  nextjs
 } from "../assets";
 
 export const navLinks = [
@@ -124,15 +127,27 @@ const technologies = [
     name: 'docker',
     icon: docker,
   },
+  {
+    name: 'NextJS',
+    icon: nextjs,
+  },
+
 ];
 
 const experiences = [
+  {
+    title: 'Software Engineer ',
+    company_name: 'MonoSpear Technolgies Pvt Ltd',
+    icon: monospear,
+    iconBg: '#333333',
+    date: 'Jan 2025 - Present',
+  },
   {
     title: 'Full-Stack Developer Intern',
     company_name: 'Subhanu Technologies & Solutions',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Jul 2024 - Present',
+    date: 'Jul 2024 - Dec 2024',
   },
   {
     title: 'Full-Stack Developer Intern',
@@ -186,16 +201,15 @@ const projects = [
     image: deloitte,
     repo: "#",
     demo: "https://merry-zabaione-59cdd1.netlify.app",
-  },
-  {
+  },{
     id: "project-2",
     name: "Video Blog-App",
     description:
       "This project is a Video Management Application built with React, Chakra UI, Firebase, and React Router. The app allows users to browse, create, update, and search for videos. It also supports user authentication via Google Sign-In.",
     image: video,
     repo: "#",
-    demo: "https://github.com/kruthvik19/React-Video-Blog-App",
-  },
+    demo: "https://videobllo.netlify.app",
+  }, 
   {
     id: "project-3",
     name: "User Management ",

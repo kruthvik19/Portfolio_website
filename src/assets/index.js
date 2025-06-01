@@ -45,7 +45,10 @@ import practitioner from "./certificates/Javascript1.png";
 import azure from "./certificates/azure.png";
 import deloitte from "./certificates/Taskmanager.png";
 import video from "./certificates/VideoBlog.png";
-import userman from "./certificates/userman.png"
+import userman from "./certificates/userman.png";
+import monospear from "./company/monospear.jpg";
+import monospear1 from "./company/monoheadlogo.png";
+import nextjs from "./icons/nextjs.png";
 
 
 
@@ -92,5 +95,8 @@ export {
   mongodb,
   angular,
   video,
-  userman
+  userman,
+  monospear,
+  monospear1,
+  nextjs
 };
